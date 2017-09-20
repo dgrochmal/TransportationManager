@@ -6,7 +6,7 @@ package edu.ncsu.csc316.transportation_manager.set;
 import edu.ncsu.csc316.transportation_manager.list.ArrayBasedList;
 
 /**
- * UpTrees (Disjoint sets to aid in Kruskal's algorithm
+ * UpTrees (Disjoint sets to aid in Kruskal's algorithm)
  * 
  * @author Dan Grochmal djgrochm
  *
